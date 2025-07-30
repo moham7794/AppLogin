@@ -1,0 +1,22 @@
+
+
+<resources>
+    <string name="app_name">HwLogin</string>
+    <string name="app_logo"> شعار التطبيق </string>
+
+    <string name="welcome_back"> اهلا </string>
+    <string name="login_subtitle">" سجل دخولك للمتابعة "</string>
+    <string name="username_hint">" اسم المستخدم او البريد الالكتروني "</string>
+    <string name="password_hint">" كلمة المرور "</string>
+    <string name="forgot_password">"هل نسيت كلمة المرور؟ "</string>
+    <string name="login_button">"تسجل الدخول "</string>
+    <string name="or_text">" او "</string>
+    <string name="dont_have_account">" ليس لديك حساب؟ "</string>
+    <string name="sign_up_text">"  إنشاء حساب جديد "</string>
+
+    <string name="error_empty_username">"  يرجى ادخال اسم المستخدم "</string>
+    <string name="error_empty_password">"   يرجى ادخال كلمة المرور  "</string>
+    <string name="error_invalid_credentials">" بيانات الدخول غير صحيحة  "</string>
+
+
+</resources>
